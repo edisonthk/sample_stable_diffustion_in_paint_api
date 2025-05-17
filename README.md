@@ -1,4 +1,4 @@
-### Stable Diffusion APIの in paint機能検証
+# Stable Diffusion APIの in paint機能検証
 
 Models Labが提供する Stable Diffusion, image to image (in paint) のAPIを検証するための検証コード。
 
@@ -6,7 +6,8 @@ Models Labが提供する Stable Diffusion, image to image (in paint) のAPIを�
 
 <img src="screenshot.png">
 
-####　起動方法
+
+### 起動方法
 
 https://modelslab.com よりAPIキーを取得し、次のコマンドでサーバーを起動する。
 
